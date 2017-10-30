@@ -11,7 +11,7 @@ probabilistic modeling and inference, theoretical population genetics, and
 the evolution of complex traits.
 
 Links of interest:
-[Alan Moses' Lab](http://www.moseslab.csb.utoronto.ca/)
-[UofT Machine Learning Group](http://www.cs.toronto.edu:40292/)
-[UofT Computational Biology Group](http://compbio.cs.toronto.edu/cbl/)
-[TorBUG](https://torbug.org/)
+- [Alan Moses' Lab](http://www.moseslab.csb.utoronto.ca/)
+- [UofT Machine Learning Group](http://www.cs.toronto.edu:40292/)
+- [UofT Computational Biology Group](http://compbio.cs.toronto.edu/cbl/)
+- [TorBUG](https://torbug.org/)
