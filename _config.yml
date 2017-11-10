@@ -8,9 +8,11 @@ baseurl: '/'
 
 author:
   name: 'Shadi Zabad'
+  first_name: 'Shadi'
   email: shadi.zabad@mail.utoronto.ca
   github_username:  shz9
   linkedin_username:  shadizabad
+  google_scholar_id:  mNRvh0EAAAAJ
 
 defaults:
   -
