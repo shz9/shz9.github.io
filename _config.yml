@@ -41,3 +41,6 @@ kramdown:
 
 gems: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
+plugins:
+  - jekyll-seo-tag
