@@ -1,0 +1,27 @@
+"bioRxiv":
+  url: https://www.biorxiv.org/
+  color: "#bd2736"
+
+"medRxiv":
+  url: https://www.medrxiv.org/
+  color: "#0e4c92"
+
+"AJHG":
+  url: https://www.ajhg.org/
+  color: "#00391f"
+
+"Science":
+  url: https://www.science.org/
+  color: "#ca2015"
+
+"NAR":
+  url: https://academic.oup.com/nar
+  color: "#006fb7"
+
+"Bioinformatics":
+  url: https://academic.oup.com/bioinformatics
+  color: "#167DA4"
+
+"GigaScience":
+  url: https://academic.oup.com/gigascience
+  color: "#0E8841"
