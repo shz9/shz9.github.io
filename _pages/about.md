@@ -9,10 +9,6 @@ profile:
   image: mcgill.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Candidate</p>
-    <p>School of Computer Science</p>
-    <p>McGill University</p>
-    <p>Montreal, QC, Canada</p>
     <small>Photo credit: D. Benjamin Miller</small>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
