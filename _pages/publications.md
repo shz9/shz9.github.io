@@ -2,10 +2,10 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: |
+description: >
   Publications in reverse chronological order.
   Up-to-date information available at
-  <a href="https://scholar.google.com/citations?user=mNRvh0EAAAAJ&hl=en">Google Scholar</a>.
+  <a href=\"https://scholar.google.com/citations?user=mNRvh0EAAAAJ&hl=en\">Google Scholar</a>.
 nav: true
 nav_order: 2
 
